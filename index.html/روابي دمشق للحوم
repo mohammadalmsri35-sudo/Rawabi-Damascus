@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>روابي دمشق | Rawabi Damascus</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui}
+body{background:#fdf8f0;color:#222}
+header{background:linear-gradient(135deg,#1a5d3a,#2e8b57);color:#fff;padding:50px 20px;text-align:center}
+header h1{font-size:42px;margin-bottom:10px}
+header p{font-size:18px;opacity:.9}
+.btn{display:inline-block;background:#f5b301;color:#222;padding:14px 30px;border-radius:30px;text-decoration:none;font-weight:bold;margin-top:20px;font-size:18px}
+section{max-width:900px;margin:auto;padding:30px 20px}
+.card{background:#fff;border-radius:20px;padding:25px;margin-bottom:20px;box-shadow:0 5px 20px rgba(0,0,0,.08);text-align:center}
+.card h2{color:#1a5d3a;margin-bottom:10px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:15px}
+.item{background:#fff;border-radius:15px;padding:20px;text-align:center;box-shadow:0 3px 12px rgba(0,0,0,.07)}
+.item b{font-size:20px;color:#1a5d3a}
+footer{background:#222;color:#fff;text-align:center;padding:25px}
+</style>
+</head>
+<body>
+<header>
+<h1>🌿 روابي دمشق</h1>
+<p>أطيب أكل شامي .. من قلب دمشق لعندك</p>
+<a class="btn" href="https://wa.me/963000000000">اطلب عالواتساب 📱</a>
+</header>
+<section>
+<div class="card"><h2>أهلا وسهلا فيك ❤️</h2><p>مطعم روابي دمشق - أكل بيتي، مشاوي، وكبب على أصولها. طعم الشام الحقيقي.</p></div>
+<div class="grid">
+<div class="item"><b>🔥 مشاوي</b><p>كباب، شقف، جوانح</p></div>
+<div class="item"><b>🥙 كبب</b><p>كبة مقلية ومشوية</p></div>
+<div class="item"><b>🍕 معجنات</b><p>صفيحة ولحم بعجين</p></div>
+<div class="item"><b>🍰 حلو</b><p>كنافة وبوظة عربية</p></div>
+</div>
+<div class="card" style="margin-top:20px"><h2>📍 وين نحنا؟</h2><p>دمشق - سوريا<br>التوصيل لكل دمشق وريفها<br>دوامنا: 11 صباحا - 12 ليلا</p></div>
+</section>
+<footer>© 2026 روابي دمشق - Rawabi Damascus</footer>
+</body>
+</html>
